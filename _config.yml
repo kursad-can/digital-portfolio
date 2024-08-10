@@ -3,7 +3,7 @@
 
 title: Digital Portfolio
 author: Alex Do
-logo: ../student-a8/AlexDo-files/profile-picture.png
+logo: profile-picture.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
